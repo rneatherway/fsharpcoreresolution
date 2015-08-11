@@ -1,0 +1,8 @@
+os:
+  - Windows Server 2012
+  - Visual Studio 2015
+build:
+  project: fsharpcoreresolution.fsproj
+test_script:
+  - bin\Debug\fsharpcoreresolution.exe
+  
